@@ -80,7 +80,7 @@ with st.sidebar:
 
 st.write('# Comment sentiment analysis online')
 st.write(
-    ":dog: Leave a comment and let us predict your feelings. This code is available [here](https://github.com/nvd4c/streamlitbert.git) on GitHub."
+    ":dog: Leave a comment and let us predict your feelings. This code is available [here](https://github.com/nvd4c/demo_thesis.git) on GitHub."
 )
 
 
