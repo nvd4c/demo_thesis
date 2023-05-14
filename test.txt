@@ -1,1 +1,31 @@
-1123123
+text_id,text
+1,Chạy chương trình giới thiệu xong ko thấy trả tiền thưởng
+2,Tuyệt voi
+3,"App mới quá tệ, lằng nhằng hơn trước nhiều"
+4,Nhập SĐT vào lấy mã ok. Xong qua bước chụp CMND thì nó báo SĐT không hợp lệ... What??? Vô lý
+5,"nhập mật mã từ tn 5 lần để đk mà ko đươc,xl"
+6,Cho khách hàng tạo tài khoản miễn phí trên app nhưng lại không cho liên kết với ví điện tử. Muốn liên kết phải làm thẻ ATM và phải đóng phí dịch vụ cho ngân hàng. Không thích điều này
+7,"nhập mật mã từ tn 5 lần để đk mà ko đươc,xl"
+8,Team dev có thể làm cho phần giao dịch thành công tém tém gói gọn trong 1 màn hình để chụp màn hình lấy đc hết nội dung
+9,"Chức năng quên mật khẩu không thể dùng được? Tôi sử dụng chức năng này, chưa nhập xong mã OTP đã báo phiên đăng nhập hết hạn! Rất ức chế và không sử dụng được."
+10,"Gửi tiền cho người ta, muốn tìm lại lịch sử giao dịch để chụp hình xác nhận, mà thấy toàn tài khoản người gửi, không hiện tài khoản người nhận sao người ta biết mà xác nhận cho mình."
+11,Rút tiền về tk này xong bank đi thì toàn báo lỗi
+12,Giống kiểu lừa đảo vậy? Đăng bài bảo ngta cài app rồi sẽ đc tặng đt này nọ.. muốn đi lên bằng đường lừa đảo à ? Quá thất vọng vì chủ app dở trò như vậy!
+13,Ko gửi tiết kiệm đc lỗi liên tục
+14,Xác thực danh tính bá không thành công liên tục quá kém tốn nhiều tiền làm app nhưng không có tiền làm hệ thống xác thực tốt hơn
+15,"App không lưu đc nội dung chuyển khoản, cũng như truy vấn lịch sử giao dịch một cách chi tiết nhất"
+16,Tôi đang ký tới buoc3 thì ko dk dc
+17,App chạy trên ios quá chậm thường xuyên xảy ra lỗi
+18,ảnh chụp chính chủ mà k nhận ra app phế thực sự
+19,Bắt xác nhân cccd chụp cả trước với cả sau mấy chục lần mà chả được !!!
+20,"Nạp tiền vào số điện thoại, tài khoản thẻ đã bị trừ nhưng điện thoại vẫn chưa nhận được tiền."
+21,Đăng nhập máy báo Khách hàng đang bị khóa GW18 là sau ad.
+22,Đăng ký hết đến lúc mã về xác nhận bị lỗi tài khoản bị trừ tiền ??? Khó hiểu
+23,Vẫn chưa có cách để ng dùng copy paste số tk bản thân một cách dễ dàng
+24,"Vẫn còn lỗi nhỏ khi lưu danh bạ hưởng thụ viết dấu không được Ví dụ: từ bắc lỗi băcs Lượm cũng lỗi nói chung là lỗi bỏ dấu trong từ có 2-3 dấu App thật sự thiếu cái rất quan trọng, chuyển khoản đến các ngân hàng khác muốn coi lại lịch sử thì không biết chuyển cho ai, stk cũng không hiện lên ??? Lỗi này thật sự chán và ảnh hưởng đến công việc"
+25,"Hơn 1 tuần trời ko khắc phục được lỗi, ko thể tất toán được tài khoản thấu chi để lấy được sổ tiết kiệm ra. Sổ tiết kiệm đến hạn bị om tiền."
+26,Chẳng đâu vào đâu.
+27,"Gửi tiền tiết kiệm tích luỹ va đặt lệnh gửi tiền tự động giúp tiết kiệm được nhiều thứ cho khách hàng. Nhưng khi cần, khách hàng có thể dùng tiền đó bằng cách tất toán. Trước đó phải huỷ lệnh gửi tự động. Làm đầy đủ các khoản vẫn bảo “giao dịch không thành công”, vậy giao dịch kiểu gì để thành công vậy? Chắc chúng tôi nên suy nghĩ lại vấn đề sử dụng lâu dài với NH và sử dụng app này"
+28,Qc ccbm chứ tặng 500k điêu vcl cút....
+29,"App bị lỗi, vào app bị văng ra"
+30,"Hiện rõ thông tin người chuyển tiền đến từ ngân hàng nào, tài khoản nào Hiện tại tin nhắn thông báo. Ko biết ai chuyển đến tài khoản của mình Rất bất tiện"
