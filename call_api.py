@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(format='%(asctime)s : %(message)s', datefmt='%d-%m-%Y %H:%M:%S', level=logging.INFO)
 
-url_sentiment_api = "http://35.203.7.128:9090/sentiment-analyzer"
+url_sentiment_api = "http://34.95.7.222:9090/sentiment-analyzer"
 headers_sentiment_api = {"Content-Type": "application/json; utf-8",
                          "X-API-Token":
                              "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiQVBJIiwiaWF0IjoxNjUxODExOTE4LCJzZXJ2aWNlIjoic2VudGltZW50In0.E0p6r3YeMtPBgZ65K0xWsNgRXfTW-JtLd7GpqN_zl60"
